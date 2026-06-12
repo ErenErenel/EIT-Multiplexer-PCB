@@ -1,0 +1,18 @@
+# KiCad auto-generated files
+*.kicad_prl
+*-backups/
+fp-info-cache
+*-cache.lib
+*.bak
+*.kicad_pcb-bak
+*.sch-bak
+*.net
+*.dsn
+*.ses
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Zip archives (use the Gerbers/ folder instead)
+*.zip
